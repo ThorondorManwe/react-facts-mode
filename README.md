@@ -1,0 +1,1 @@
+An exersice to practice conditional rendering with props in React
